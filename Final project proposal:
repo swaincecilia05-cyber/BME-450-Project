@@ -1,10 +1,15 @@
 # Title
 Classify different types of aircrafts
 ## Team members
-Cecilia Swain(swaincecilia05-cyber), Nadia Wheeler (GitHubUserB)
+Cecilia Swain(swaincecilia05-cyber), Nadia Wheeler (nhwheeler)
 ## Project decription
-For this project, I plan to build a machine learning model that can classify different types of airplanes from images, such as commercial planes, fighter jets, cargo planes, and private aircraft. The goal is to train a model that can recognize differences in things like wing shape, size, and overall structure, and correctly label the type of plane. This project is meant to help me understand how image classification works and how machine learning models can be applied to real-world visual data.
+
+For this project, we plan to build a machine learning model that can classify different types of airplanes from images, such as commercial planes, fighter jets, 
+cargo planes, and private aircraft. The goal is to train a model that can recognize differences in things like wing shape, size, and overall structure, and correctly 
+label the type of plane. This project is meant to help us understand how image classification works and how machine learning models can be applied to real-world visualdata.
+
 Instead of using an existing dataset, we will create my own dataset by collecting images from online sources. we will gather pictures of different plane types and make sure there is some differeneces in angles, lighting, and backgrounds so the model doesn’t overfit. Then, we will label each image based on the type of aircraft and preprocess the data by resizing and normalizing the images. 
+
 Max ½ page. Include some information on:
 - what dataset you plan to use
 - goal of the project. 
